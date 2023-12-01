@@ -36,3 +36,6 @@ Run the Consumer Code.py which reads data from the created Kafka Topic and dumps
 ```
 kafka_consumer-cassandra.py
 ```
+
+
+[Refer the Link for collection of screenshots captured during the project execution](https://docs.google.com/document/d/1MJ6W-EuLjadHaRsKSn2cUf8El5FU-6G-/edit?usp=drive_link&ouid=102047065766224889946&rtpof=true&sd=true)
